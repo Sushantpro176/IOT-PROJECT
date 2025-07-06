@@ -48,7 +48,8 @@ Traditional irrigation methods often lead to inefficient water usage due to the 
 ---
 
 ## 🧪 Simulated Circuit
-![Simulation Screenshot](./Screenshot%202025-07-06%20163306.png)
+![Simulation Screenshot](![Screenshot 2025-07-06 163306](https://github.com/user-attachments/assets/f68f7bde-0f02-43db-b4bf-f7b2eaaf319a)
+)
 
 The image above shows the logical layout of the irrigation system:
 - Two water level monitors are placed in the field.
